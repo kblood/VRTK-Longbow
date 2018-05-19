@@ -32,3 +32,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+steamvr_unity_plugin
